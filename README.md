@@ -1,2 +1,2 @@
 # DesktopBillingSystem
-WPF Project following Clean Architecture
+WinForms Project following Clean Architecture
